@@ -1,0 +1,3 @@
+[submodule "Modules/Dou"]
+	path = Modules/Dou
+	url = https://github.com/kollev724/dou.git
